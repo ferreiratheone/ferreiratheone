@@ -1,10 +1,6 @@
 <!-- ======================================================================= -->
 <!-- A. HERO SECTION // FERREIRA.DEV CYBER HEADER                            -->
 <!-- ======================================================================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:003B20,100:050505&height=200&section=header&text=FERREIRA.DEV&fontSize=46&fontColor=00FF66&fontAlignY=42&desc=FULL-STACK%20ENGINEERING%20%20%2F%2F%20%20CYBERSECURITY%20%26%20INFRASTRUCTURE&descAlignY=66&descSize=13&descColor=FFFFFF&animation=fadeIn" width="100%" alt="FERREIRA.DEV Banner" />
-</div>
-
 <!-- TERMINAL BOOT ANIMATION -->
 <div align="center">
   <a href="https://github.com/ferreiratheone">
