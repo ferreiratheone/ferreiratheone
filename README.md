@@ -1,26 +1,6 @@
 <!-- ======================================================================= -->
-<!-- 01. TOP TELEMETRY // CONTRIBUIÇÕES TOTAIS & ESTATÍSTICAS DA CONTA       -->
+<!-- 01. TOP MATRIX // CONTRIBUIÇÕES NO INÍCIO DO PERFIL                     -->
 <!-- ======================================================================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:003B20,100:050505&height=95&section=header&text=FERREIRA.DEV%20%2F%2F%20SYSTEM%20TELEMETRY&fontSize=24&fontColor=00FF66&fontAlignY=52&desc=LIVE%20CONTRIBUTION%20METRICS%20%26%20REPOSITORY%20ANALYTICS&descAlignY=76&descSize=11&descColor=A0A0A0" width="100%" alt="Telemetry Header" />
-</div>
-
-<!-- CONTRIBUIÇÕES TOTAIS & STREAK (EM PRIMEIRO) -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreiratheone&background=050505&border=003B20&stroke=003B20&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=A0A0A0" width="100%" alt="Total Contributions & Streak" />
-</div>
-
-<br/>
-
-<!-- ESTATÍSTICAS GERAIS & LINGUAGENS MAIS USADAS -->
-<div align="center">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=ferreiratheone&show_icons=true&bg_color=050505&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=003B20&include_all_commits=true&count_private=true" alt="Account Stats" />
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiratheone&layout=compact&langs_count=6&bg_color=050505&title_color=00FF66&text_color=FFFFFF&border_color=003B20" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- MATRIZ DE CONTRIBUIÇÕES (ESTILO HACKER NEON) -->
 <div align="center">
   <code>[ CONTRIBUTION_MATRIX // 365_DAYS_LOG ]</code>
   <br/><br/>
@@ -28,13 +8,6 @@
 </div>
 
 <br/>
-
-<!-- ONDA DE ATIVIDADE EM TEMPO REAL -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferreiratheone&bg_color=050505&color=00FF66&line=00FF66&point=FFFFFF&area=true&area_color=003B20&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
 
 <!-- ======================================================================= -->
 <!-- 02. TERMINAL DE IDENTIDADE // ESCREVENDO SUAS INFORMAÇÕES               -->
@@ -47,7 +20,9 @@
 
 <br/>
 
-<!-- CONEXÕES & LINKS DIRETOS -->
+<!-- ======================================================================= -->
+<!-- 03. CONEXÕES & LINKS DIRETOS                                            -->
+<!-- ======================================================================= -->
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-ferreira-240404277" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-Matheus_Ferreira-050505?style=for-the-badge&labelColor=003B20&logo=linkedin&logoColor=00FF66" alt="LinkedIn" />
@@ -63,7 +38,9 @@
 
 <br/>
 
-<!-- BENTO GRID: TERMINAL LINUX + CONFIGURAÇÃO DO DESENVOLVEDOR -->
+<!-- ======================================================================= -->
+<!-- 04. BENTO GRID // TERMINAL LINUX + CONFIGURAÇÃO DO DESENVOLVEDOR         -->
+<!-- ======================================================================= -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -108,7 +85,9 @@ export const developer = {
 
 <br/>
 
-<!-- PROJETOS REAIS EM PRODUÇÃO -->
+<!-- ======================================================================= -->
+<!-- 05. PROJETOS REAIS EM PRODUÇÃO                                          -->
+<!-- ======================================================================= -->
 ### `// ACTIVE_DEPLOYMENTS.diff`
 
 ```diff
@@ -123,7 +102,9 @@ export const developer = {
 
 <br/>
 
-<!-- STACK & ARSENAL TECNOLÓGICO -->
+<!-- ======================================================================= -->
+<!-- 06. STACK & ARSENAL TECNOLÓGICO                                         -->
+<!-- ======================================================================= -->
 <div align="center">
 
 `T E C H   A R S E N A L`
@@ -148,7 +129,31 @@ export const developer = {
 
 </div>
 
-<!-- FOOTER -->
+<br/>
+
+<!-- ======================================================================= -->
+<!-- 07. TELEMETRIA COMPLETA DA CONTA (CONTRIBUIÇÕES, STREAK & LINGUAGENS)   -->
+<!-- ======================================================================= -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreiratheone&background=050505&border=003B20&stroke=003B20&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&dates=A0A0A0" width="100%" alt="Total Contributions & Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=ferreiratheone&show_icons=true&bg_color=050505&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=003B20&include_all_commits=true&count_private=true" alt="Account Stats" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiratheone&layout=compact&langs_count=6&bg_color=050505&title_color=00FF66&text_color=FFFFFF&border_color=003B20" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferreiratheone&bg_color=050505&color=00FF66&line=00FF66&point=FFFFFF&area=true&area_color=003B20&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<!-- ======================================================================= -->
+<!-- FOOTER                                                                  -->
+<!-- ======================================================================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:003B20,100:050505&height=65&section=footer&text=ROOT%40FERREIRA%3A~%24%20EXIT%200&fontSize=13&fontColor=00FF66&fontAlignY=55" width="100%" alt="Footer" />
 </div>
