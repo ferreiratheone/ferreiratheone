@@ -1,4 +1,4 @@
-## Hi there 👋
+Desenvolvedor Full-Stack | TypeScript, React, Next.js & C++## Hi there 👋
 
 <!--
 **ferreiratheone/ferreiratheone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
