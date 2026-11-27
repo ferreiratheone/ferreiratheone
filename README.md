@@ -1,47 +1,49 @@
-<!-- HEADER CYBER-WAVE EM AZUL NEON -->
+<!-- HEADER MINIMALISTA DARK ARCHITECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060913,45:0f172a,85:1e3a8a,100:38bdf8&height=210&section=header&text=FERREIRATHEONE&fontSize=44&fontColor=38BDF8&fontAlignY=42&desc=PROTOCOL%2007%20%2F%2F%20CODE%2C%20SCALE%20%26%20CASHFLOW&descAlignY=65&descSize=14&descColor=94A3B8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,50:0f172a,100:060913&height=160&section=header&text=MATHEUS%20FERREIRA&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=SYSTEMS%20ARCHITECT%20%20%7C%20%20FULL-STACK%20%26%20LOW-LEVEL%20ENGINEERING&descAlignY=66&descSize=13&descColor=38BDF8&animation=fadeIn" width="100%" />
 </div>
 
-<!-- TERMINAL HACKER & CASHFLOW ANIMADO -->
+<!-- TERMINAL UNIX / INSPEÇÃO DE SISTEMA EM TEMPO REAL -->
 <div align="center">
   <a href="https://github.com/ferreiratheone">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2000&pause=500&color=10B981&background=060913&center=false&vCenter=true&multiline=true&repeat=false&width=840&height=165&lines=root%40theonehub%3A~%23+.%2Fexec_protocol_07.sh+--stealth;%5BACCESS+GRANTED%5D+Matheus+Ferreira+%2F%2F+%40ferreraseven;%3E+Core_Ops%3A+%5BHigh_Ticket_Funnels%5D+%5BPayment_Gateways%5D+%5BSaaS%5D;%3E+Infra%3A+Checkout_PIX%2FCard+%E2%80%A2+Server_Tracking+%E2%80%A2+Bots_n8n;%3E+Status%3A+PRINTING_RESULTS+%F0%9F%92%B8+%2F%2F+SYSTEM_ONLINE_" alt="Terminal Protocol 07" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=600&color=10B981&background=060913&center=false&vCenter=true&multiline=true&repeat=false&width=840&height=155&lines=ferreiratheone%40kernel%3A~%24+neofetch+--architecture;OS%3A+TheOneHub+Core+v2.6+%28x86_64+Linux%2FWin32%29;Domains%3A+Multi-Tenant+SaaS+%E2%80%A2+C%2B%2B%2FC%23+Performance+%E2%80%A2+KUKA+Robotics;Security%3A+Row-Level+Security+%28RLS%29+%E2%80%A2+Zero-Trust+Auth+%E2%80%A2+HWID;Status%3A+ONLINE+%E2%80%94+Engineering+scalable%2C+low-latency+systems_" alt="System Terminal" />
   </a>
 </div>
 
 <br/>
 
-<!-- BARRA DE COMANDO: REDES, PROTOCOLO 07 & RADAR -->
+<!-- BARRA DE CONEXÃO & TELEMETRIA -->
 <div align="center">
-  <a href="https://instagram.com/ferreraseven" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%40ferreraseven-060913?style=for-the-badge&logo=instagram&logoColor=38BDF8" />
-  </a>
   <a href="https://www.linkedin.com/in/matheus-ferreira-240404277" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Matheus_Ferreira-060913?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus_Ferreira-060913?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  </a>
+  <a href="https://instagram.com/ferreraseven" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40ferreraseven-060913?style=for-the-badge&logo=instagram&logoColor=38BDF8" />
   </a>
   <a href="https://suethfps.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/PROTOCOL_07-ACTIVE-060913?style=for-the-badge&logo=cashapp&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Release-Sueth_FPS-060913?style=for-the-badge&logo=windows&logoColor=10B981" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ferreiratheone&label=NET_PINGS&color=060913&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ferreiratheone&label=PROFILE_HITS&color=060913&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- BENTO GRID LINHA 1: CARTÃO BLACK 07 + ENGENHARIA DE VENDAS & TRÁFEGO -->
+<!-- BENTO GRID 2 COLUNAS (LARGURA CALIBRADA PARA NÃO QUEBRAR) -->
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### `💳` `black_card_07.vault`
+### `>_` `architect.ts`
 
-```text
-┌────────────────────────────────────┐
-│ THEONEHUB BLACK         TIER // 07 │
-│ ░░░░                               │
-│ 0707  ••••  ••••  7777    [ACTIVE] │
-│                                    │
-│ HOLDER: MATHEUS FERREIRA           │
-│ ALIAS : @FERRERASEVEN              │
-│ OPS   : FUNNELS • GATEWAYS • SCALE │
-└────────────────────────────────────┘
+```ts
+const architect = {
+  user: "ferreiratheone",
+  founder: "TheOneHub",
+  location: "Limeira, SP - BR",
+  focus: [
+    "Distributed SaaS & RLS Security",
+    "Low-Level C++/C# Optimization",
+    "Industrial Robotics (KUKA/KRL)"
+  ],
+  ethos: "Precision over noise."
+} as const;
