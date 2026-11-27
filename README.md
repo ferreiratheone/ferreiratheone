@@ -39,7 +39,36 @@
 <br/>
 
 <!-- ======================================================================= -->
-<!-- 04. BENTO GRID // TERMINAL LINUX + CONFIGURAÇÃO DO DESENVOLVEDOR         -->
+<!-- 04. STACK & ARSENAL TECNOLÓGICO                                         -->
+<!-- ======================================================================= -->
+<div align="center">
+
+`T E C H   A R S E N A L`
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&labelColor=003B20&logo=typescript&logoColor=00FF66)
+![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&labelColor=003B20&logo=javascript&logoColor=00FF66)
+![React](https://img.shields.io/badge/React-050505?style=for-the-badge&labelColor=003B20&logo=react&logoColor=00FF66)
+![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&labelColor=003B20&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&labelColor=003B20&logo=tailwind-css&logoColor=00FF66)
+![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge&labelColor=003B20&logo=nodedotjs&logoColor=00FF66)
+<br/>
+![C++](https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&labelColor=003B20&logo=c%2B%2B&logoColor=00FF66)
+![C#](https://img.shields.io/badge/C%23-050505?style=for-the-badge&labelColor=003B20&logo=dotnet&logoColor=00FF66)
+![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&labelColor=003B20&logo=python&logoColor=00FF66)
+![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&labelColor=003B20&logo=openjdk&logoColor=00FF66)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&labelColor=003B20&logo=postgresql&logoColor=00FF66)
+![Supabase](https://img.shields.io/badge/Supabase-050505?style=for-the-badge&labelColor=003B20&logo=supabase&logoColor=00FF66)
+![Firebase](https://img.shields.io/badge/Firebase-050505?style=for-the-badge&labelColor=003B20&logo=firebase&logoColor=00FF66)
+![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&labelColor=003B20&logo=linux&logoColor=00FF66)
+
+</div>
+
+<br/>
+
+<!-- ======================================================================= -->
+<!-- 05. BENTO GRID // TERMINAL LINUX + CONFIGURAÇÃO DO DESENVOLVEDOR         -->
 <!-- ======================================================================= -->
 <table>
   <tr>
@@ -86,7 +115,7 @@ export const developer = {
 <br/>
 
 <!-- ======================================================================= -->
-<!-- 05. PROJETOS REAIS EM PRODUÇÃO                                          -->
+<!-- 06. PROJETOS REAIS EM PRODUÇÃO                                          -->
 <!-- ======================================================================= -->
 ### `// ACTIVE_DEPLOYMENTS.diff`
 
@@ -99,35 +128,6 @@ export const developer = {
 + [DATA]  GBC Engine     :: Indexador corporativo de +90.000 itens sincronizado ao ERP DebX
 # STATUS: ALL SYSTEMS OPERATIONAL // 29+ REPOSITORIES ACTIVE
 ```
-
-<br/>
-
-<!-- ======================================================================= -->
-<!-- 06. STACK & ARSENAL TECNOLÓGICO                                         -->
-<!-- ======================================================================= -->
-<div align="center">
-
-`T E C H   A R S E N A L`
-
-<br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&labelColor=003B20&logo=typescript&logoColor=00FF66)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&labelColor=003B20&logo=javascript&logoColor=00FF66)
-![React](https://img.shields.io/badge/React-050505?style=for-the-badge&labelColor=003B20&logo=react&logoColor=00FF66)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&labelColor=003B20&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050505?style=for-the-badge&labelColor=003B20&logo=tailwind-css&logoColor=00FF66)
-![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge&labelColor=003B20&logo=nodedotjs&logoColor=00FF66)
-<br/>
-![C++](https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&labelColor=003B20&logo=c%2B%2B&logoColor=00FF66)
-![C#](https://img.shields.io/badge/C%23-050505?style=for-the-badge&labelColor=003B20&logo=csharp&logoColor=00FF66)
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&labelColor=003B20&logo=python&logoColor=00FF66)
-![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&labelColor=003B20&logo=openjdk&logoColor=00FF66)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&labelColor=003B20&logo=postgresql&logoColor=00FF66)
-![Supabase](https://img.shields.io/badge/Supabase-050505?style=for-the-badge&labelColor=003B20&logo=supabase&logoColor=00FF66)
-![Firebase](https://img.shields.io/badge/Firebase-050505?style=for-the-badge&labelColor=003B20&logo=firebase&logoColor=00FF66)
-![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&labelColor=003B20&logo=linux&logoColor=00FF66)
-
-</div>
 
 <br/>
 
