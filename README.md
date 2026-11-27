@@ -1,44 +1,44 @@
-<!-- Banner Animado Verde Neon -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:064e3b,100:10b981&height=200&section=header&text=Matheus%20Ferreira&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SaaS%20%26%20Automation%20Engineer&descAlignY=58&descSize=16" width="100%" />
-</div>
-
-<!-- Texto Digitando (Typing SVG) -->
-<div align="center">
-  <a href="https://github.com/ferreiratheone">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Fundador+da+TheOneHub+%7C+Inova%C3%A7%C3%B5es+Digitais;Desenvolvedor+Full-Stack+(TypeScript+%26+Next.js);Sistemas+SaaS%2C+E-commerces+%26+Utilit%C3%A1rios+Desktop;Programa%C3%A7%C3%A3o+de+Rob%C3%B4s+Industriais+(KUKA+%2F+Siemens)" alt="Typing SVG" />
-  </a>
+  <img src="./assets/hero-banner.svg" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
 
-<!-- Badges de Redes & Contato -->
+<!-- Bento Grid: Card Esquerdo + 2 Cards Direitos -->
+<table>
+  <tr>
+    <td width="63%" valign="top" style="border: none; padding: 0 8px 0 0;">
+      <img src="./assets/card-about.svg" width="100%" alt="About" />
+    </td>
+    <td width="37%" valign="top" style="border: none; padding: 0;">
+      <img src="./assets/card-status-1.svg" width="100%" alt="Low Latency" />
+      <br/><br/>
+      <img src="./assets/card-status-2.svg" width="100%" alt="Craft" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Card Largo de Stack -->
 <div align="center">
-  <a href="https://instagram.com/ferreira.own" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40ferreira.own-050505?style=for-the-badge&logo=instagram&logoColor=10B981" />
-  </a>
-  <a href="https://suethfps.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Sueth_FPS-Desktop_App-050505?style=for-the-badge&logo=windows&logoColor=10B981" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-050505?style=for-the-badge&logo=linkedin&logoColor=10B981" />
-  </a>
+  <img src="./assets/card-stack.svg" width="100%" alt="Stack" />
 </div>
 
----
+<br/>
 
-### ⚡ Sobre Mim
-
-```ts
-const ferreira = {
-  nome: "Matheus Ferreira",
-  marca: "TheOneHub",
-  localizacao: "Limeira, SP - Brasil",
-  focoAtual: [
-    "Arquitetura de Sistemas SaaS & Web Apps",
-    "Automação Industrial & Robótica (KUKA / Process Simulate)",
-    "Otimização de Sistemas & Ferramentas Desktop (C# / C++)"
-  ],
-  stackPrincipal: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "Supabase", "Firebase"],
-  disponivelParaProjetos: true
-};
+<!-- Botões Estilo Pílula (Idêntico ao rodapé da referência) -->
+<div align="center">
+  <a href="https://github.com/ferreiratheone" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ferreiratheone-060913?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ferreraseven" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40ferreraseven-060913?style=for-the-badge&logo=instagram&logoColor=38BDF8" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-ferreira-240404277" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus_Ferreira-060913?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  </a>
+  <a href="https://suethfps.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Sueth_FPS-Project-060913?style=for-the-badge&logo=windows&logoColor=10B981" />
+  </a>
+</div>
